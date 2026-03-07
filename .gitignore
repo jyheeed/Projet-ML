@@ -1,0 +1,21 @@
+# Dossiers de données
+data/
+*.csv
+*.zip
+
+# Modèles ML
+models/
+*.pkl
+*.joblib
+*.h5
+
+# MLflow
+mlruns/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Environnements
+venv/
+.env

@@ -1,0 +1,2 @@
+Total Trips,Summer Trips,Winter Trips,Total Distance km,Avg Consumption Summer kWh/km,Avg Consumption Winter kWh/km,Winter vs Summer Increase pct,Model Accuracy pct,Model ROC AUC,Avg Range Summer km,Avg Range Winter km
+69,32,37,1335.9,0.107,0.142,33.6,87,0.924,175.7,131.5

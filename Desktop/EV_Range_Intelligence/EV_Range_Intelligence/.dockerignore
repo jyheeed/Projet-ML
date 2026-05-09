@@ -1,0 +1,10 @@
+.venv
+__pycache__
+.pytest_cache
+notebooks
+data
+dashboard
+mlflow
+tests
+*.db
+*.ipynb

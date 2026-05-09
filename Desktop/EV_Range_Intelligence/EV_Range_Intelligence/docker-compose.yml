@@ -1,0 +1,10 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    container_name: ev-range-api
+    restart: unless-stopped
+    environment:
+      API_HOST: 0.0.0.0
+      API_PORT: 8000
